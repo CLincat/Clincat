@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Clincat&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Clincat&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=radical" /> </div>
 
 <!--
 **CLincat/Clincat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
